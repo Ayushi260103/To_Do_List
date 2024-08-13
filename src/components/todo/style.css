@@ -60,12 +60,12 @@ input {
   margin-top: 2rem;
   color: rgb(58, 57, 57);
   background-color: #fff;
-  background-image: none;
-  border: 0.1rem solid #ccc;
+  /* background-image: none; */
+  /* border: 0.1rem solid #ccc; */
   border-radius: 0.4rem;
-  -webkit-box-shadow: inset 0 0.1rem 0.1rem rgb(0 0 0 / 8%);
+  /* -webkit-box-shadow: inset 0 0.1rem 0.1rem rgb(0 0 0 / 8%);
   box-shadow: inset 0 0.1rem 0.1rem rgb(0 0 0 / 8%);
-  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s; */
   border: 2px solid black  !important;
 }
 
@@ -73,7 +73,7 @@ input,
 input:focus,
 input:active,
 input:active:focus {
-  border: none;
+  /* border: none; */
   padding: 2.3rem 1.5rem;
   outline: none;
 }
